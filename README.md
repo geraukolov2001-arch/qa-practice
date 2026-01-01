@@ -13,3 +13,4 @@ Web application (authorization and registration forms)
 ## Tools
 - Chrome DevTools
 - GitHub
+- Postman
